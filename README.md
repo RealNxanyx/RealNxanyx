@@ -2,8 +2,8 @@
 
 **About Me**
 
-- **My School:** I.T.I.S Alessandro Volta (Naples,Italy)
-- 📍 **Naples,Italy**
+- 🏫 **My School:** I.T.I.S Alessandro Volta
+- 📍 **Naples (Italy)**
 
 
 
