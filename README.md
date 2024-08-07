@@ -2,17 +2,9 @@
 
 **About Me**
 
-- 🏫 **My School:** I.T.I.S Alessandro Volta
 - 📍 **Naples (Italy)**
-
-
-
-
-
-
-
-
-
+- 🏫 **My School:** I.T.I.S Alessandro Volta
+- 🚀 **15yo Boy**
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
