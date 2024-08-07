@@ -2,7 +2,8 @@
 
 **About Me**
 
-My School: <img src="https://cdn3.emoji.gg/emojis/84846-pepebeer.png" alt="myschool" width="30" height="30">
+🏫 - My School: I.T.I.S Alessandro Volta (Naples,Italy)
+
 
 
 
