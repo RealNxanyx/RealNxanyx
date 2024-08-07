@@ -8,4 +8,4 @@
 
 **Systems**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="50" height="50"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="50" height="50">
