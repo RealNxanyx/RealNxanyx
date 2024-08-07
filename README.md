@@ -5,4 +5,4 @@
 **LANGUAGES**
 
 
-[<img title="Java" height=50px src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg]" />][stackoverflow]
+![Java](https://example.com/your-image.png](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)
