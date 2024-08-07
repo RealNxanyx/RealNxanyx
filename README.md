@@ -2,7 +2,7 @@
 
 **About Me**
 
-<img src="https://cdn3.emoji.gg/emojis/84846-pepebeer.png" alt="myschool" width="30" height="30"> My School: 
+My School: <img src="https://cdn3.emoji.gg/emojis/84846-pepebeer.png" alt="myschool" width="30" height="30">
 
 
 
