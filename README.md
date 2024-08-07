@@ -2,7 +2,7 @@
 
 **About Me**
 
-<img src="https://cdn3.emoji.gg/emojis/7570_Pepe_Lengyel.png" alt="myschool" width="20" height="20"> - My School: 
+<img src="https://cdn3.emoji.gg/emojis/7570_Pepe_Lengyel.png" alt="myschool" width="30" height="30"> - My School: 
 
 
 
