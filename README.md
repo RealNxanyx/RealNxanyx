@@ -29,4 +29,4 @@
 **GET IN TOUCH**
 
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="tg" width="50" height="50"> 
-[@MWNH0](https://telegram.me/MWNH0)
+[@MWNH0](https://t.me/MWNH0)
