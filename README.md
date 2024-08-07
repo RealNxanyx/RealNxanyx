@@ -16,4 +16,4 @@
 
 **Learning - Languages & Technologies**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" alt="gradle" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" alt="gradle" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nextjs" width="50" height="50">
