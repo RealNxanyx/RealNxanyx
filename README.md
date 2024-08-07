@@ -1,3 +1,3 @@
 ## 👋 Hi, Im Nxanyx
 
-https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
