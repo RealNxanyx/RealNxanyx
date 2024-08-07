@@ -2,7 +2,8 @@
 
 **About Me**
 
-My School: <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.itisvoltanapoli.edu.it%2Fwp-content%2Fuploads%2F2020%2F04%2Flogovoltaperenfold.jpg&f=1&nofb=1&ipt=96006fef69bc2bc96fbb7c1596a8f8b8d9561f6d0ec182c7eb7d2731c2f7d01d&ipo=images" alt="myschool" width="50" height="50">
+My School
+<img src="https://www.itisvoltanapoli.edu.it/wp-content/uploads/2020/04/logovoltaperenfold.jpg" alt="myschool" width="50" height="50">
 
 
 
