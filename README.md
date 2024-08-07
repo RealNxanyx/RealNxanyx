@@ -5,4 +5,4 @@
 **LANGUAGES**
 
 
-[<img title="Java" height=50px src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg]" />][wakatime]
+[<img title="Java" height=50px src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg]" />][stackoverflow]
