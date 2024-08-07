@@ -4,4 +4,4 @@
 
 **Languages and Technologies**
 
-![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50">
