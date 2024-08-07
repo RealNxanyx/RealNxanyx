@@ -1,8 +1,7 @@
-## 👋 Hi, Im Nxanyx
+## 👋 Hi, I'm Nxanyx
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-**LANGUAGES**
+**Languages and Technologies**
 
-
-![Java](https://example.com/your-image.png](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)
+![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)
