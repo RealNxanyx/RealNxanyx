@@ -26,7 +26,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-**GET IN TOUCH**
+**Get in touch**
 
 <a href="https://t.me/MWNH0" target="_blank">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="tg" width="50" height="50">
