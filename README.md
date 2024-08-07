@@ -2,9 +2,7 @@
 
 **About Me**
 
-My School
-
-<img src="https://www.itisvoltanapoli.edu.it/wp-content/uploads/2020/04/logovoltaperenfold.jpg" alt="myschool" width="50" height="50">
+<img src="https://cdn3.emoji.gg/emojis/7570_Pepe_Lengyel.png" alt="myschool" width="10" height="10"> - My School: 
 
 
 
