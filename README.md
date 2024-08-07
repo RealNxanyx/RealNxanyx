@@ -9,3 +9,7 @@
 **Systems**
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="windows11" width="50" height="50"> 
+
+**Learning - Systems**
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="fedora" width="50" height="50">
