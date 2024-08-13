@@ -28,7 +28,7 @@
 
 **Get in touch**
 
-<a href="https://t.me/MWNH0" target="_blank">
+<a href="https://t.me/CommandExecutor" target="_blank">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="tg" width="50" height="50">
 </a> <a href="https://discord.gg/sunsetpvp" target="_blank">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" alt="tg" width="50" height="50">
